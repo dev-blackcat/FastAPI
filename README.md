@@ -1,4 +1,4 @@
-### TALOS(병원모듈) 백엔드
+### Python FastAPI
 FastAPI + pydantic + sqlAlchemy
 
 ### 구성 요소
@@ -24,4 +24,4 @@ Starlette과 Pydantic 덕분에 NodeJS 및 Go와 대등할 정도로 매우 높�
 Schema 구성 라이브러리입니다. Typing을 통해 타입 오류를 미연에 방지할 수 있습니다.
 
 #### sqlAlchemy
-파이썬의 SQL_ORM 손쉽게 데이터 테이블을 만들고, Query를 실행시킬 수 있습니다."# FastAPI" 
+파이썬의 SQL_ORM 손쉽게 데이터 테이블을 만들고, Query를 실행시킬 수 있습니다. 
